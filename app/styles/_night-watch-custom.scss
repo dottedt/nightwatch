@@ -1,0 +1,91 @@
+.blue-background {
+  background-color: #11335c;
+  color: #fff;
+}
+.baby-background {
+  background: url("../images/bg_baby.jpg") no-repeat center center;
+  background-size: cover;
+  height: 31.4em;
+  text-align: center;
+  color: #fff;
+  font-weight: 700;
+  padding-top: 12em;
+}
+.baby-feet-background {
+  background: url("../images/bg_baby_feet.jpg") no-repeat center center;
+  background-size: cover;
+  height: 31.4em;
+  padding: 0 0 0 2em;
+  color: #fff;
+  font-weight: 700;
+}
+.baby-background h2 {
+  font-weight: 700;
+}
+
+.baby-adult-hands-background {
+  background: url("../images/bg_baby_adult_hands.jpg") no-repeat center center;
+  background-size: cover;
+  height: 31.4em;
+  padding: 0 0 0 2em;
+  color: #fff;
+  font-weight: 700;
+}
+
+.circle-baby-two-feet {
+  background: url("../images/bg_baby_two_feet.jpg") no-repeat center center;
+  height: 300px;
+  width: 240px;
+
+ }
+.nurse-and-baby {
+   background: url("../images/bg_nurse_and_baby.jpg") no-repeat center center;
+  height: 417px;
+  width: 256px;
+
+ }
+.map-florida-south-america-cuba {
+   background: url("../images/map-florida-south-america-cuba.png") no-repeat center center;
+  height: 300px;
+  width: 276px;
+
+ }
+.map-our-strategy {
+  background: url("../images/map-our-strategy.png") no-repeat center center;
+  height: 607px;
+  width: 509px;
+ }
+
+ .page-padding {
+  padding-left: 1em !important;
+  padding-right: 1em !important;
+ }
+
+.g--half-padded {
+  padding: 2em;
+}
+.g--half-padded p {
+  font-size: 24px;
+  font-weight: 300;
+}
+.orange-text {
+  color: #ff6633;
+}
+.orange-divider {
+    border-top: 1px solid #ff6633;
+    margin: 15px 40%;
+    max-width: 150px;
+}
+footer {
+    color: #AFAFAF;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: #141414;
+
+    p {
+      padding: 0.55em 0 0.55em 1.25em;
+      font-size: 10px;
+      font-weight: 700;
+    }
+}
+
