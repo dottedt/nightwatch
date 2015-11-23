@@ -19,6 +19,14 @@
   color: #fff;
   font-weight: 700;
 }
+ .bg_baby_feet_adult_hands {
+  background: url("../images/bg_baby_feet_adult_hands.jpg") no-repeat center center;
+  background-size: cover;
+  height: 31.4em;
+  padding: 0 0 0 2em;
+  color: #fff;
+  font-weight: 700;
+ }
 .baby-background h2 {
   font-weight: 700;
 }
@@ -56,10 +64,17 @@
   width: 509px;
  }
 
- .page-padding {
+.page-padding {
   padding-left: 1em !important;
   padding-right: 1em !important;
+
  }
+.page-padding ul {
+  padding-left: 0.7em;
+}
+.g-wide--full {
+  padding-bottom: 1em;
+}
 
 .g--half-padded {
   padding: 2em;
