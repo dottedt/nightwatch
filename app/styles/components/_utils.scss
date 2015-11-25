@@ -329,13 +329,19 @@
 
   @mixin numbered-list() {
     &::before {
-      counter-increment: list;
-      content: '0' counter(list);
-      color: inherit;
-      font-weight: 400;
-      display: inline-block;
-      position: absolute;
-      left: 0;
+    color: #ff6633 !important;
+    counter-increment: list;
+    content: counter(list);
+    border-radius: 100%;
+    border: 2px solid #ff6633;
+    width: 36px;
+    height: 36px;
+    color: inherit;
+    font-weight: 400;
+    display: inline-block;
+    position: absolute;
+    left: -14px;
+    text-align: center;
     }
   }
 
