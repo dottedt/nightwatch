@@ -10,8 +10,8 @@
 
 .baby-background {
     background: url(../images/bg_baby.jpg) no-repeat center center;
-    background-size: cover;
-    height: 31.4em;
+    background-size: cover !important;
+    height: 31.5em;
     text-align: center;
     color: #fff;
     font-weight: 700;
@@ -20,8 +20,8 @@
 
 .baby-feet-background {
     background: url(../images/bg_baby_feet.jpg) no-repeat center center;
-    background-size: cover;
-    height: 31.4em;
+    background-size: cover !important;
+    height: 31.6em;
     padding: 4em 0 0 2em;
     color: #fff;
     font-weight: 700;
@@ -29,7 +29,7 @@
 
 .baby-and-adult-hands-background {
     background: url(../images/bg_baby_adult_hands.jpg) no-repeat center center;
-    background-size: cover;
+    background-size: cover !important;
     height: 32em;
     padding: 18% 0 0 2em;
     color: #fff;
@@ -39,7 +39,7 @@
 
 .baby-feet-adult-hands-background {
     background: url(../images/bg_baby_feet_adult_hands.jpg) no-repeat center center;
-    background-size: cover;
+    background-size: cover !important;
     height: 31.4em;
     padding: 18% 0 0 2em;
     color: #fff;
@@ -48,9 +48,9 @@
 
 .baby-laying-face-down {
     background: url(../images/bg_baby_laying_face_down.jpg) no-repeat center center;
-    background-size: cover;
+    background-size: cover !important;
     height: 31.4em;
-    padding: 18% 0 0 2em;
+    padding: 5% 0 0 2em;
     color: #fff;
     font-weight: 700;
 }
