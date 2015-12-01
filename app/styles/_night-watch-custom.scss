@@ -1,121 +1,146 @@
 .blue-background {
-  background-color: #11335c;
-  color: #fff;
+    background-color: #11335c;
+    color: #fff;
+    margin: 1em 0 0;
 }
-.baby-background {
-  background: url("../images/bg_baby.jpg") no-repeat center center;
-  background-size: cover;
-  height: 31.4em;
-  text-align: center;
-  color: #fff;
-  font-weight: 700;
-  padding-top: 8em;
-}
-.baby-feet-background {
-  background: url("../images/bg_baby_feet.jpg") no-repeat center center;
-  background-size: cover;
-  height: 31.4em;
-  padding: 0 0 0 2em;
-  color: #fff;
-  font-weight: 700;
-}
- .bg_baby_feet_adult_hands {
-  background: url("../images/bg_baby_feet_adult_hands.jpg") no-repeat center center;
-  background-size: cover;
-  height: 31.4em;
-  padding: 0 0 0 2em;
-  color: #fff;
-  font-weight: 700;
- }
+
 .baby-background h2 {
-  font-weight: 700;
+    font-weight: 700;
 }
 
+.baby-background {
+    background: url(../images/bg_baby.jpg) no-repeat center center;
+    background-size: cover;
+    height: 31.4em;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    padding-top: 8em;
+}
 
-.baby-adult-hands-background {
-  background: url("../images/bg_baby_adult_hands.jpg") no-repeat center center;
-  background-size: cover;
-  height: 31.4em;
-  padding: 0 0 0 2em;
-  color: #fff;
-  font-weight: 700;
+.baby-feet-background {
+    background: url(../images/bg_baby_feet.jpg) no-repeat center center;
+    background-size: cover;
+    height: 31.4em;
+    padding: 4em 0 0 2em;
+    color: #fff;
+    font-weight: 700;
+}
+
+.baby-and-adult-hands-background {
+    background: url(../images/bg_baby_adult_hands.jpg) no-repeat center center;
+    background-size: cover;
+    height: 32em;
+    padding: 18% 0 0 2em;
+    color: #fff;
+    font-weight: 700;
+
+}
+
+.baby-feet-adult-hands-background {
+    background: url(../images/bg_baby_feet_adult_hands.jpg) no-repeat center center;
+    background-size: cover;
+    height: 31.4em;
+    padding: 18% 0 0 2em;
+    color: #fff;
+    font-weight: 700;
+}
+
+.baby-laying-face-down {
+    background: url(../images/bg_baby_laying_face_down.jpg) no-repeat center center;
+    background-size: cover;
+    height: 31.4em;
+    padding: 18% 0 0 2em;
+    color: #fff;
+    font-weight: 700;
 }
 
 .circle-baby-two-feet {
-  height: 300px;
-  width: 240px;
+    height: 300px;
+    width: 240px;
+}
 
- }
 .nurse-and-baby {
-  height: 417px;
-  width: 256px;
+    height: 417px;
+    width: 256px;
+}
 
- }
- .light-blue-background {
-  background-color: #dfe3ef;
-  padding: 0 0 1em 0;
-  margin: 1em 0 0 0;
- }
+.light-blue-background {
+    background-color: #dfe3ef;
+    padding: 0 0 1em;
+    margin: 1em 0 0;
+}
+
 .map-florida-south-america-cuba {
-   background: url("../images/map-florida-south-america-cuba.png") no-repeat center center;
-  height: 300px;
-  width: 276px;
+    background: url(../images/map-florida-south-america-cuba.png) no-repeat center center;
+    height: 300px;
+    width: 276px;
+}
 
- }
+.enhance-tech-skills {
+    padding: 2.5em 0 0;
+}
 
- .enhance-tech-skills {
-    padding: 2.5em 0 0 0;
+.blue-text {
+    color: #11335c;
+}
 
- }
- .blue-text {
-  color: #11335c;
- }
- .light-blue-background  .g--third {
-  background-color: white;
-  padding: 1.5em;
-  margin-bottom: 1em;
-  height: 26em;
+.light-blue-background .g--third {
+    background-color: #fff;
+    padding: 1.5em;
+    margin-bottom: 1em;
+    height: 26em;
+}
 
- }
 .map-our-strategy {
-  background: url("../images/map-our-strategy.png") no-repeat right;
-  height: 607px;
-  width: 509px;
- }
+    background: url(../images/map-our-strategy.png) no-repeat center center;
+    background-size: cover;
+    height: 44.4em;
 
- #amznCharityBanner {
+
+}
+
+#amznCharityBanner {
     width: 49.5%;
     margin: auto;
-    padding: 0 0 1em 0;
- }
+    padding: 0 0 1em;
+}
 
 .page-padding {
-  padding-left: 3em !important;
-  padding-right: 3em !important;
-
- }
-.page-padding ul {
-  padding-left: 0.7em;
+    padding-left: 3em !important;
+    padding-right: 3em !important;
 }
+
+.page-padding ul {
+    padding-left: .7em;
+}
+
 .g-wide--full {
-  padding-bottom: 1em;
+    padding-bottom: 1em;
 }
 
 .g--half-padded {
-  padding: 2em;
+    padding: 2em;
 }
+
 .g--half-padded p {
-  font-size: 24px;
-  font-weight: 300;
+    font-size: 24px;
+    font-weight: 300;
 }
+
 .orange-text {
-  color: #ff6633;
+    color: #f63;
 }
+
 .orange-divider {
-    border-top: 1px solid #ff6633;
+    border-top: 1px solid #f63;
     margin: 15px 40%;
     max-width: 150px;
 }
+.our-strategy > li {
+  padding-bottom: 1em;
+}
+
 footer {
     color: #AFAFAF;
     text-transform: uppercase;

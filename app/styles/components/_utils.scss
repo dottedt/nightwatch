@@ -184,7 +184,7 @@
   @mixin rule--base {
     font-size: $fontBase;
     line-height: 1.6250em; /* 26px */
-    padding-top: 1.6250em;
+    padding-top: 0.5em;
     padding-bottom: 0;
   }
 
@@ -192,7 +192,7 @@
     font-size: 26px;
     font-weight: 800;
     line-height: 1.3000em; /* 26px */
-    padding-top: 1.3000em;
+    padding-top: 1em;
     padding-bottom: 0;
   }
 
