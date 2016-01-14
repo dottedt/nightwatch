@@ -896,9 +896,9 @@ FileETag None
 
     ExpiresByType audio/ogg                             "access plus 1 month"
     ExpiresByType image/bmp                             "access plus 1 month"
-    ExpiresByType image/gif                             "access plus 1 minutes"
-    ExpiresByType image/jpeg                            "access plus 1 minutes"
-    ExpiresByType image/png                             "access plus 1 minutes"
+    ExpiresByType image/gif                             "access plus 1 month"
+    ExpiresByType image/jpeg                            "access plus 1 month"
+    ExpiresByType image/png                             "access plus 1 month"
     ExpiresByType image/svg+xml                         "access plus 1 month"
     ExpiresByType image/webp                            "access plus 1 month"
     ExpiresByType video/mp4                             "access plus 1 month"
