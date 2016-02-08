@@ -176,17 +176,15 @@ a.orange-text {
 .padding-bottom {
     margin-bottom: 1em;
 }
-.our-strategy-image {
-   position: relative;
-   width: 100%;
+.hide-from-visual-browsers {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
 }
-.our-strategy-image-text {
-    width: 94%;
-    position: absolute;
-    bottom: 1%;
-    padding: 4%;
-    color: white;
-}
+
 
 footer {
     color: #AFAFAF;
